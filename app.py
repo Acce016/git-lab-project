@@ -1,1 +1,1 @@
-"print('This is Version A')" 
+"print('Hello from Terminal')" 
