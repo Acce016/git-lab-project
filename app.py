@@ -1,3 +1,2 @@
-"print('Hello from Terminal')" 
-print("Hello from GitHub")
-
+print("Hello from A")
+print("Hello from B")
